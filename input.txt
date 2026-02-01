@@ -1,0 +1,21 @@
+Hello Guys,
+
+Please contact us using the following email addresses:
+
+For general inquiries:
+support@codealpha.tech
+info@company.com
+
+For internships:
+internship.codealpha@gmail.com
+
+For Programming:
+python_learning@gmail.com
+C_learning@gmail.com
+java_learning@gmail.com
+
+You can also reach the HR department at:
+hr.department@organization.org
+
+Thank you,
+Admin Team.
