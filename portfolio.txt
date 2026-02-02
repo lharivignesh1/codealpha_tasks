@@ -1,0 +1,3 @@
+AAPL : 540
+KSFL : 1750
+Total Investment : 2290
